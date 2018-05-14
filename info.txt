@@ -1,0 +1,8 @@
+Git Commands
+1. Git clone URL
+2. git status(checks status)
+3.git add(adds files to commit)
+4.git commit -m "commit name"
+5.git --config username"username"
+6.git --config email"email"
+7.git push origin master
