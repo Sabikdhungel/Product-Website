@@ -1,0 +1,173 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    padding: 0;
+    /* background-color: rgb(9, 156, 214); */
+}
+
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+#ghost{
+    margin-top:25vh;
+    height:70vh;
+}
+
+header{
+    background-image: url(download.jpg); 
+    background-size: 100% 100%;
+}
+nav{
+    height:60px;
+}
+
+#bige{
+    font-size: 40px;
+}
+
+.nav-item{
+    padding-left: 20px;
+    line-height: 60px;
+}
+
+#quote-button{
+    border-radius: 30px;
+    padding:12px 42px;
+    border:none;
+    background-color: rgb(46, 133, 247);
+    color: white;
+    transition: 0.7s;
+    margin-top:20vh;
+}
+
+#quote-button:hover{
+    background-color: rgb(22, 95, 197) ;
+}
+
+.new-new{
+    margin-left: 500px;
+    margin-top:70px;
+}
+
+.old-old{
+    text-align: center;
+    margin-top:70px;
+}
+
+.justify{
+    text-align: center;
+}
+
+#margin-t{
+    margin-top: 100px;
+}
+
+.col-md-6 i{
+    color: rgb(226, 212, 85);
+}
+
+#margin-{
+    margin-top: 125px;
+}
+
+#image-gallery img{
+    position: relative;
+    transition: 0.7s;
+}
+
+#image-gallery img:hover{
+    transform:rotate(-5deg);
+}
+
+#background{
+    background-color: rgb(0, 183, 255);
+    padding-bottom: 50px;
+}
+
+.white-tbl{
+    border:2px solid white;
+    color: green;
+    background-color: white;
+}
+
+.table-design{
+    border:2px solid white !important;
+    /* border-radius:67px; */
+    text-align: left;
+}
+
+.row-design{
+    border-bottom: 1px solid red;
+}
+
+i{
+    color:green;
+}
+
+table .icons-design{
+    border-right:2px solid red;
+}
+
+td{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#justifier{
+    text-align: center;
+}
+
+.st-line{
+    /* display: inline-block; */
+    margin-right: 50px;
+}
+
+#e-button{
+    border-radius: 30px;
+    padding:12px 42px;
+    border:none;
+    background-color: rgb(1, 131, 1);
+    color: white;
+    transition: 0.7s;
+}
+
+#e-button:hover{
+    background-color: rgb(10, 78, 1);
+}
+
+#new-button{
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(255, 138, 138);
+    /* border:none; */
+    line-height: 18px;
+    padding-bottom: 5px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-left: 0px;
+}
+
+#heigh{
+    line-height: 24px;
+    padding-bottom: 3px;
+}
+
+#old-button{
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(255, 138, 138);
+    /* border:none; */
+    line-height: 18px;
+    padding-bottom: 5px;
+    /* border-top-left-radius: 0px; */
+    border-top-right-radius:0px;
+    border-bottom-right-radius: 0px;
+    border-right: 0px;
+}
+
+#last{
+    background-color:  rgb(0, 183, 255);
+    padding-bottom:20px;
+    padding-top:50px;
+}
