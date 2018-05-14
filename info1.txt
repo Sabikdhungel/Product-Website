@@ -1,0 +1,8 @@
+1. ls(list directory)
+2. cd(directory name)
+3. pwd(print working directory)
+4. touch filename(creates new file)
+5. nano filename(editor)
+6. ls -l
+7. ls -a
+
